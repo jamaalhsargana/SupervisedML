@@ -18,7 +18,7 @@ Question 1.2 Build regression models using Linear Regression and Random Forest (
 Question 2.1 Build a classification model using Random Forest (any other algorithm is also allowed) with default parameters to predict the whether the video starts to play or times out (QoE_JT ). Use training and test split ratio of 80:20. On the test set, provide the Confusion Matrix. With what precision does the model predict the video to timeout (positive class will be 0 in this case)? You can use all the features or use a subset of the features as obtained using the approaches in Q1.
 Question 2.2 Plot the ROC curve and provide the Area under the Curve (AUC) of the model.
 
-Question 3.1: Plot the CDF (Cumulative distribution function) for the variable “join_time”. This variable gives the startup delay (in milliseconds)for every YouTube video session. What percentage of videos play with join_time of less than 10 seconds?
+Question 3.1: Plot the CDF (Cumulative distribution function) for the variable “join_time”. This variable gives the startup delay (in milliseconds) for every YouTube video session. What percentage of videos play with join_time of less than 10 seconds?
 
 DL: DownLink/DownLoad 
 TP: ThroughPut (bandwidth)
